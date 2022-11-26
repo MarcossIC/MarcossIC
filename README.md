@@ -4,7 +4,7 @@
 ## 🚀 Sobre mi
 Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de datos MySQL, aunque tambien cuento con experiencia trabajando con otras tecnologias como JavaScript, C++, PHP, HTML, CSS, en mis tiempos libres me encanta entrenar :)
 
-- 📫 Puedes contactarme en <**marcoslopezdev18@gmail.com**>
+- 📫 Puedes contactarme en **<marcoslopezdev18@gmail.com>**
 
 ## 🛠 Tecnologias Principales
 <p align="left">
