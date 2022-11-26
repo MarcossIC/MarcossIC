@@ -1,8 +1,6 @@
-
 <h1 align="center">Hola 👋, Soy Marcos Lopez</h1>
 
 **`Desarrollador Back-end`**
-
 ## 🚀 Sobre mi
 Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de datos MySQL, aunque tambien cuento con experiencia trabajando con otras tecnologias como JavaScript, C++, PHP, HTML, CSS, en mis tiempos libres me encanta entrenar :)
 
