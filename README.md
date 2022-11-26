@@ -1,5 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy Marcos Lopez</h1>
+
 ## 🚀 About Me
 Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de datos MySQL, aunque tambien cuento con experiencia trabajando con otras tecnologias como JavaScript, C++, PHP, HTML, CSS.
 
@@ -36,7 +37,7 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 <a href="https://es.stackoverflow.com/users/301174/marcos-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:301174" height="30" width="40" /></a>
 <a href="https://instagram.com/srlopez_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srlopez_18" height="30" width="40" /></a>
 </p>
-## Otros proyectos
 
+## Otros proyectos
  Tambien he trabajo en el proyecto [facturador++](https://github.com/conjunto-solucion/facturador)
 como desarrollador backend y administrador de base de datos, toda la informacion la encontras en el repositorio
