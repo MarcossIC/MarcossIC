@@ -32,7 +32,7 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 </p>
 
 
-## 🔗 Links
+## 🔗 Tambien puedes encontrarme en:
 <p align="left">
 <a href="https://twitter.com/ikarolopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikarolopez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcos-lopez-209a07223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos lopez" height="30" width="40" /></a>
