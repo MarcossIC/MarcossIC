@@ -3,7 +3,7 @@
 ### Desarrollador Back-end
 Soy un desarrollador Back-End especializado en Java y Spring Boot, aunque tambien tengo experiencia trabajando con otras tecnologias como JavaScript, C++, PHP, HTML y CSS.
 ### Tecnologias
-[![Java](https://img.shields.io/badge/Java-F58314?style=for-the-badge&logo=garbagecollectorjava&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-F58314?style=for-the-badge&logo=jakarta&logoColor=white&labelColor=101010)]()
 [![Spring_Boot](https://img.shields.io/badge/Spring_Boot-5FB832?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
