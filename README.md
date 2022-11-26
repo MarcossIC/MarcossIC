@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/ikarolopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikarolopez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcos lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos lopez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:301174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:301174" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/301174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="301174" height="30" width="40" /></a>
 <a href="https://instagram.com/srlopez_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srlopez_18" height="30" width="40" /></a>
 </p>
 
