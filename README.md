@@ -40,12 +40,19 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 <a href="https://instagram.com/srlopez_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srlopez_18" height="30" width="40" /></a>
 </p>
 
+<div> 
+  <a href="https://twitter.com/ikarolopez" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/srlopez_18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = https://es.stackoverflow.com/users/301174/marcos-lopez"><img src="https://img.shields.io/badge/-Stack_OverFlow-%F48023?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/marcos-lopez-209a07223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
+
 ## Otros proyectos
  Tambien he trabajo en el proyecto [facturador++](https://github.com/conjunto-solucion/facturador)
 como desarrollador backend y administrador de base de datos, toda la informacion la encontras en el repositorio
 
 <div align="center">
   <a href="https://github.com/MarcossIC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossIC&show_icons=false&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossIC&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossIC&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
 </div>
