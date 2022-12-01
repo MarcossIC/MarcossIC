@@ -46,6 +46,6 @@ como desarrollador backend y administrador de base de datos, toda la informacion
 
 <div align="center">
   <a href="https://github.com/MarcossIC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossIC&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossIC&show_icons=false&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossIC&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
 </div>
