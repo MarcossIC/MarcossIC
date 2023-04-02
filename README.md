@@ -39,7 +39,9 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
   <a href="https://instagram.com/srlopez_18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = https://es.stackoverflow.com/users/301174/marcos-lopez"><img src="https://img.shields.io/badge/-Stack_OverFlow-F48023?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/marcos-lopez-209a07223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <p>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</p>
 ## Otros proyectos
  Tambien he trabajo en el proyecto [facturador++](https://github.com/conjunto-solucion/facturador)
 como desarrollador backend y administrador de base de datos, toda la informacion la encontras en el repositorio
