@@ -42,7 +42,7 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 
   <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marcos-lopez-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/marcos-lopez-dev?trk=profile-badge">Marcos Lopez</a></div>
               
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## Otros proyectos
  Tambien he trabajo en el proyecto [facturador++](https://github.com/conjunto-solucion/facturador)
