@@ -49,3 +49,9 @@ como desarrollador backend y administrador de base de datos, toda la informacion
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossIC&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossIC&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
 </div>
+
+
+
+
+
+=SI(F11="", "", SI(Y(CONTAR.SI(A2:A8, A2) = 1, CONTAR.SI(A2:A8, A3) = 1, CONTAR.SI(A2:A8, A6) = 1, CONTAR.SI(A2:A8, A6) = 1, CONTAR.SI(A2:A8, A7) = 1, CONTAR.SI(A2:A8, A8) = 1), SI(CONTAR.SI(A2:A8, F11) >1, CONCATENAR("El producto ", CARACTER(34),BUSCARV(F11, A2:D8, 2, FALSO), CARACTER(34), " con codigo ", BUSCARV(F11, A2:D8, 1, FALSO), " y con stock ", BUSCARV(F11, A2:D8, 4, FALSO), " unidades, tiene como importe total ", SUMA(BUSCARV(F11, A2:D8, 3, FALSO), C10), " pesos" ), "El valor no existe"), "Valor duplicado"))
