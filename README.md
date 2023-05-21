@@ -7,8 +7,8 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 - 📫 Puedes contactarme en **<marcoslopezdev18@gmail.com>**
 
 ## 🛠 Tecnologias Principales 
-<p style="user-select: none;" align="left">
-   <img style="user-select: none;"src="https://skillicons.dev/icons?i=java,maven,spring,hibernate"/>
+<p user-select="none" align="left">
+   <img user-select="none" src="https://skillicons.dev/icons?i=java,maven,spring,hibernate"/>
 </p>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
