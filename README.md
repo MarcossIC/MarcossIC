@@ -16,7 +16,7 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,php"/> </a>
 </p>
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,linux,idea"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,linux,idea,vscode"/> </a>
 </p>
 
 ## 🔗 Tambien puedes encontrarme en:
