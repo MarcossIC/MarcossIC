@@ -31,6 +31,9 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
+ <br/>
+  [![My Skills](https://skillicons.dev/icons?i=java,js,,html,css,linux,springboot,php,arduino,gcp,docker,postman,idea,mysql)](https://skillicons.dev)
+ <br/>
 
 ## 🔗 Tambien puedes encontrarme en:
 
