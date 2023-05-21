@@ -35,4 +35,4 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossIC&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
 </div>
 
-<img height="120" alt="Gracias por la visita" width="100%" src="https://github.com/MarcossIC/MarcossIC/blob/main/thxyw.svg" />
+<img height="120" alt="Gracias por la visita" width="100%" src="https://raw.githubusercontent.com/MarcossIC/MarcossIC/e71acb8f034134b06ce4407cfd1ca23f34ece4c4/thxyw.svg" />
