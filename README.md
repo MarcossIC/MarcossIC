@@ -33,7 +33,10 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 
  <br/>
  
-  [![My Skills](https://skillicons.dev/icons?i=java,js,,html,css,linux,springboot,php,arduino,gcp,docker,postman,idea,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,hibernate,mariadb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,php,arduino,gcp,docker,postman,py,cpp,maven,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=idea,vsc,netbeans)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=stackoverflow,twitter,instagram,linkedin)](https://skillicons.dev)
  
  <br/>
 
