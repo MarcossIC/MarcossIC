@@ -27,7 +27,7 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
   <a href = https://es.stackoverflow.com/users/301174/marcos-lopez"><img src="https://img.shields.io/badge/-Stack_OverFlow-F48023?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
   <a href="https://ar.linkedin.com/in/marcos-lopez-dev?trk=profile-badge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Mis estadisticas en GitHub
+## Stats
 
 <div align="center">
   <a href="https://github.com/MarcossIC">
