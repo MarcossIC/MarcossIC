@@ -34,7 +34,3 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossIC&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossIC&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
 </div>
-
-## Otros proyectos
- Tambien he trabajo en el proyecto [facturador++](https://github.com/conjunto-solucion/facturador)
-como desarrollador backend y administrador de base de datos, toda la informacion la encontras en el repositorio
