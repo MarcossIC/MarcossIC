@@ -19,12 +19,6 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,linux,idea"/> </a>
 </p>
 
-<br/>
- 
-  [![My Skills](https://skillicons.dev/icons?i=stackoverflow,twitter,instagram,linkedin)](https://skillicons.dev)
- 
-<br/>
-
 ## 🔗 Tambien puedes encontrarme en:
 
 <div data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marcos-lopez-dev" data-version="v1"> 
