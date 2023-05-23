@@ -22,8 +22,6 @@ Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de dato
 ## 🔗 Tambien puedes encontrarme en:
 
 <div data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marcos-lopez-dev" data-version="v1"> 
-  <a href="https://twitter.com/ikarolopez" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/srlopez_18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = https://es.stackoverflow.com/users/301174/marcos-lopez"><img src="https://img.shields.io/badge/-Stack_OverFlow-F48023?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
   <a href="https://ar.linkedin.com/in/marcos-lopez-dev?trk=profile-badge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
