@@ -13,7 +13,7 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do
 
 ## 🛠 I also use
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,tailwind,js,cpp,html,css,php,hibernate,solidity"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka,tailwind,html,css,php,hibernate,js,cpp,py,solidity"/> </a>
 </p>
 <p align="left"> 
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,idea,vscode,figma"/> </a>
