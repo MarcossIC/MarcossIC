@@ -8,15 +8,15 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do
 
 ## 🛠 Main Stack
 <p user-select="none" align="left">
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular,spring,ts,java,mysql"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring,angular,ts,java,mysql,maven"/> </a>
 </p>
 
 ## 🛠 I also use
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,php.hibernate,solidity,figma"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,tailwind,js,cpp,html,css,php,hibernate,solidity"/> </a>
 </p>
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,idea,vscode"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,idea,vscode,figma"/> </a>
 </p>
 
 ## 🔗 You can also find me at:
