@@ -1,25 +1,25 @@
-<h1 align="center">Hola 👋, Soy Marcos Lopez</h1>
+<h1 align="center">Hi 👋, I'm Marcos Lopez</h1>
 
 **`Desarrollador Back-end`**
-## 🚀 Sobre mi
-Soy un desarrollador Back-End especializado en Java, Spring Boot y bases de datos MySQL, aunque tambien cuento con experiencia trabajando con otras tecnologias como JavaScript, C++, PHP, HTML, CSS. En mis tiempos libres disfruto de aprender todo tipo de cosas y ejercitarme.
+## 🚀 About me
+I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do best is Backend. In addition to these technologies, I have experience working with other technologies such as C++, PHP, Solidit. In my spare time I enjoy learning all kinds of things and exercising.
 
 - 📫 Puedes contactarme en **<marcoslopezdev18@gmail.com>**
 
-## 🛠 Tecnologias Principales 
+## 🛠 Main Stack
 <p user-select="none" align="left">
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java,maven,spring,hibernate"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular,spring,ts,java,mysql"/> </a>
 </p>
 
-## 🛠 Otras Tecnologias que manejo
+## 🛠 I also use
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,php"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,php.hibernate,solidity,figma"/> </a>
 </p>
 <p align="left"> 
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,idea,vscode"/> </a>
 </p>
 
-## 🔗 Tambien puedes encontrarme en:
+## 🔗 You can also find me at:
 
 <div data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marcos-lopez-dev" data-version="v1"> 
   <a href = https://es.stackoverflow.com/users/301174/marcos-lopez"><img src="https://img.shields.io/badge/-Stack_OverFlow-F48023?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
