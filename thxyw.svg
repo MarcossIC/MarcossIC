@@ -9,7 +9,7 @@
         }
         .marquee strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: limegreen;
+          color: #150366;
           position: absolute;
           font-size: 1.2em;
           width: 100%;
@@ -33,7 +33,7 @@
         }
       </style>
       <div class="marquee">
-        <strong>Thanks for you waching! :D</strong>
+        <strong>Thanks for watching! :D</strong>
       </div>
 		</div>
 	</foreignObject>
