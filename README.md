@@ -4,7 +4,7 @@
 ## 🚀 About me
 I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do best is Backend. In addition to these technologies, I have experience working with other technologies such as C++, PHP, Solidit. In my spare time I enjoy learning all kinds of things and exercising.
 
-- 📫 Puedes contactarme en <a href="mailto:marcoslopezdev18@gmail.com">marcoslopezdev18@gmail.com</a>
+- 📫 You can contact me at <a href="mailto:marcoslopezdev18@gmail.com">marcoslopezdev18@gmail.com</a>
 
 ## 🛠 Main Stack
 <p user-select="none" align="left">
