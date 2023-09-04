@@ -33,4 +33,4 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossIC&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
 </div>
 
-<img height="120" alt="Gracias por la visita" width="100%" src="https://raw.githubusercontent.com/MarcossIC/MarcossIC/0f7b9f650abfa109b60dc202409cc2fbb8e65026/thxyw.svg" />
+<img height="120" alt="Gracias por la visita" width="100%" src="https://raw.githubusercontent.com/MarcossIC/MarcossIC/2920ef0652b5e52e779dd9a6d974df7d2e450e0a/thxyw.svg" />
