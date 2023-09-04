@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos Lopez</h1>
 
-**`Desarrollador Back-end`**
+**`Full Stack Developer`**
 ## 🚀 About me
 I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do best is Backend. In addition to these technologies, I have experience working with other technologies such as C++, PHP, Solidit. In my spare time I enjoy learning all kinds of things and exercising.
 
