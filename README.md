@@ -20,9 +20,9 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do
 </p>
 
 ## 🔗 You can also find me at:
-<p align="left" data-size="medium" data-theme="light" data-type="HORIZONTAL" >You can see my portfolio at  
+<p align="left" data-size="medium" data-theme="light" data-type="HORIZONTAL" >You can see my portfolio at: 
    <a href ="https://marcoslopezportfolio.netlify.app" target="_blank">
-      <img alt="Marcos Lopez Portfolio" src="https://img.shields.io/badge/View-8A2BE2">
+      <img alt="Marcos Lopez Portfolio" src="https://img.shields.io/badge/Web-8A2BE2">
    </a>
 </p>
 <div data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marcos-lopez-dev" data-version="v1"> 
