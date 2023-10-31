@@ -22,9 +22,10 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do
 ## 🔗 You can also find me at:
 
 
+
 <div data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marcos-lopez-dev" data-version="v1"> 
    <a href ="https://marcoslopezportfolio.netlify.app" target="_blank">
-      <img alt="Marcos Lopez Portfolio" src="https://img.shields.io/badge/-Portfolio?style=for-the-badge&logoColor=white">
+      <img alt="Marcos Lopez Portfolio" src="https://img.shields.io/badge/Portfolio-8A2BE2">
    </a>
   <a href = https://es.stackoverflow.com/users/301174/marcos-lopez"><img src="https://img.shields.io/badge/-Stack_OverFlow-F48023?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
   <a href="https://ar.linkedin.com/in/marcos-lopez-dev?trk=profile-badge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
