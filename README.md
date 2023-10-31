@@ -4,8 +4,6 @@
 ## 🚀 About me
 I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do best is Backend. In addition to these technologies, I have experience working with other technologies such as C++, PHP, Solidit. In my spare time I enjoy learning all kinds of things and exercising.
 
-- 📫 You can contact me at <a href="mailto:marcoslopezdev18@gmail.com">marcoslopezdev18@gmail.com</a>
-
 ## 🛠 Main Stack
 <p user-select="none" align="left">
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring,angular,ts,java,mysql"/> </a>
@@ -20,11 +18,6 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do
 </p>
 
 ## 🔗 You can also find me at:
-<p align="left" data-size="medium" data-theme="light" data-type="HORIZONTAL" >You can see my portfolio at: 
-   <a href ="https://marcoslopezportfolio.netlify.app" target="_blank">
-      <img alt="Marcos Lopez Portfolio" src="https://img.shields.io/badge/Web-8A2BE2">
-   </a>
-</p>
 <div data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="marcos-lopez-dev" data-version="v1"> 
   <a href = https://es.stackoverflow.com/users/301174/marcos-lopez"><img src="https://img.shields.io/badge/-Stack_OverFlow-F48023?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
   <a href="https://ar.linkedin.com/in/marcos-lopez-dev?trk=profile-badge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
