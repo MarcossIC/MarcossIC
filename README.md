@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 ## 🚀 About me
-I am a Full-Stack developer in Java, Spring Boot and Angular, although what I do best is Backend. In addition to these technologies, I have experience working with other technologies such as C++, PHP, Solidit. In my spare time I enjoy learning all kinds of things and exercising.
+I am a Full-Stack developer in Java, Spring Boot and Angular, although I started doing Backend. I really love it, I dedicate time to programming and I always like to continue learning, that's why I have also learned to use other technologies such as C, C++, PHP, Python and Solidity. In my free time I enjoy training and watching series, but I always find myself improving.
 
 ## 🛠 Main Stack
 <p user-select="none" align="left">
