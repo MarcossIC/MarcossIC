@@ -6,7 +6,7 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although I started
 
 ## 🛠 Main Stack
 <p user-select="none" align="left">
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring,angular,ts,java,mysql"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring,angular,react,ts,java,mysql"/> </a>
 </p>
 
 ## 🛠 I also use
