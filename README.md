@@ -11,10 +11,10 @@ I am a Full-Stack developer in Java, Spring Boot and Angular, although I started
 
 ## 🛠 I also use
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka,tailwind,html,css,js,cpp,php,c,reactivex"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka,tailwind,html,css,js,cpp,reactivex"/> </a>
 </p>
 <p align="left"> 
-   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,gcp,docker,git,postman,idea,vscode,maven,figma"/> </a>
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux,docker,git,postman,idea,vscode,maven,figma"/> </a>
 </p>
 
 ## Stats
