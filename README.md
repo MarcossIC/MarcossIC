@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos Lopez</h1>
 
-**`Full Stack Developer`**
+**`Software Developer`**
 ## 🚀 About me
-I am a Full-Stack developer in Java, Spring Boot and Angular, although I started doing Backend. I really love it, I dedicate time to programming and I always like to continue learning, that's why I have also learned to use other technologies such as C, C++, PHP, Python and Solidity. In my free time I enjoy training and watching series, but I always find myself improving.
+I am a computer technician, passionate about programming and technology. I started programming in C++ for Arduinos, then I started doing backend with Java and Spring boot, today I also do Front-end with Angular or React. I started in the world of programming 6 years ago.
+
 
 ## 🛠 Main Stack
 <p user-select="none" align="left">
