@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 ## 🚀 About me
-I am a computer technician, passionate about programming and technology. I started programming in C++ for Arduinos, then I started doing backend with Java and Spring boot, today I also do Front-end with Angular or React. I started in the world of programming 6 years ago.
+I am a computer technician, passionate about programming and technology. I started programming in C++ for Arduinos, then I started doing backend with Java and Spring boot, today I also do Front-end with Angular or React. I already have 2 years of work experience, but my path in the world of programming began 6 years ago.
 
 
 ## 🛠 Main Stack
