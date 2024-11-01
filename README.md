@@ -6,17 +6,23 @@ I am a computer technician, passionate about programming and technology. I start
 
 ## Colaboradores
 
-#### 🧑‍💻 TL:
+### 🧑‍💻 TL:
 
 |<img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50>|
 |:-:|
 | **Diego Veras** |
 
-#### 🧑‍💻 UXUI:
+### 🧑‍💻 Designers:
 
 | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> |
 |:-:|:-:|
 | **Sasha Sawosz** | **Diego Alexander** |
+
+### 🧑‍💻 Developer:
+
+| <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> |
+|:-:|:-:|
+| **Cesar Lopez** | **Thomas Lopez** | **Rocio Tellez Lopez** | **Marcos Lopez** | **Orlando Cardenas Villegas** |
 
 ## 🛠 Main Stack
 <p user-select="none" align="left">
