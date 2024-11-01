@@ -4,6 +4,13 @@
 ## 🚀 About me
 I am a computer technician, passionate about programming and technology. I started programming in C++ for Arduinos, then I started doing backend with Java and Spring boot, today I also do Front-end with Angular or React. I already have 2 years of work experience, but my path in the world of programming began 6 years ago.
 
+## Colaboradores
+
+#### 🧑‍💻 TL:
+
+|<img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50>|
+|:-:|
+| **Diego Veras** |
 
 ## 🛠 Main Stack
 <p user-select="none" align="left">
