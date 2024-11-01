@@ -10,7 +10,7 @@ I am a computer technician, passionate about programming and technology. I start
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring,angular,react,ts,java,mysql"/> </a>
 </p>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 10px;">
   <img height="32" alt="React" src="https://cdn.simpleicons.org/react/61DAFB?viewbox=auto" />
   <img height="32" alt="Tailwind" src="https://cdn.simpleicons.org/tailwindcss/06B6D4?viewbox=auto" />
   <img height="32" alt="Axios" src="https://cdn.simpleicons.org/axios/5A29E4?viewbox=auto" />
@@ -21,6 +21,7 @@ I am a computer technician, passionate about programming and technology. I start
   <img height="32" alt="Vite" src="https://cdn.simpleicons.org/vite/646CFF?viewbox=auto" />
   <img height="32" alt="Socket Io" src="https://cdn.simpleicons.org/socket.io/010101?viewbox=auto" />
 </div>
+
 ## 🛠 I also use
 <p align="left"> 
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka,tailwind,html,css,js,cpp,reactivex"/> </a>
