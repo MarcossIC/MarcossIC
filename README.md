@@ -12,7 +12,14 @@ I am a computer technician, passionate about programming and technology. I start
 
 <div style="display: flex; align-items: center;">
   <img height="32" src="https://cdn.simpleicons.org/react/61DAFB?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/react/61DAFB?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/axios/5A29E4?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/radixui/161618?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/zod/3E67B1?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/eslint/4B32C3?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/prettier/F7B93E?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/vite/646CFF?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/socketio/010101?viewbox=auto" />
 </div>
 ## 🛠 I also use
 <p align="left"> 
