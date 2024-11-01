@@ -9,10 +9,8 @@ I am a computer technician, passionate about programming and technology. I start
 <p user-select="none" align="left">
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring,angular,react,ts,java,mysql"/> </a>
 </p>
-<img height="20" src="https://cdn.simpleicons.org/react/#61DAFB?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/React/#61DAFB" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" />
+
+<img height="32" src="https://cdn.simpleicons.org/react/61DAFB?viewbox=auto" />
 ## 🛠 I also use
 <p align="left"> 
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka,tailwind,html,css,js,cpp,reactivex"/> </a>
