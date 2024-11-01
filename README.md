@@ -11,6 +11,8 @@ I am a computer technician, passionate about programming and technology. I start
 |<img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50>|
 |:-:|
 | **Diego Veras** |
+| <a href="https://www.linkedin.com/in/diego-cristian-alfredo-v-54b459249/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+
 
 ### 🧑‍💻 Designers:
 
