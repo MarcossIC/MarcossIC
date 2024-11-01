@@ -11,15 +11,15 @@ I am a computer technician, passionate about programming and technology. I start
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img height="32" src="https://cdn.simpleicons.org/react/61DAFB?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/axios/5A29E4?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/radixui/161618?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/zod/3E67B1?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/eslint/4B32C3?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/prettier/F7B93E?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/vite/646CFF?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/socket.io/010101?viewbox=auto" />
+  <img height="32" alt="React" src="https://cdn.simpleicons.org/react/61DAFB?viewbox=auto" />
+  <img height="32" alt="Tailwind" src="https://cdn.simpleicons.org/tailwindcss/06B6D4?viewbox=auto" />
+  <img height="32" alt="Axios" src="https://cdn.simpleicons.org/axios/5A29E4?viewbox=auto" />
+  <img height="32" alt="Radix UI" src="https://cdn.simpleicons.org/radixui/161618?viewbox=auto" />
+  <img height="32" alt="Zod" src="https://cdn.simpleicons.org/zod/3E67B1?viewbox=auto" />
+  <img height="32" alt="Eslint" src="https://cdn.simpleicons.org/eslint/4B32C3?viewbox=auto" />
+  <img height="32" alt="Prettier" src="https://cdn.simpleicons.org/prettier/F7B93E?viewbox=auto" />
+  <img height="32" alt="Vite" src="https://cdn.simpleicons.org/vite/646CFF?viewbox=auto" />
+  <img height="32" alt="Socket Io" src="https://cdn.simpleicons.org/socket.io/010101?viewbox=auto" />
 </div>
 ## 🛠 I also use
 <p align="left"> 
