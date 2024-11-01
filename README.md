@@ -19,7 +19,7 @@ I am a computer technician, passionate about programming and technology. I start
   <img height="32" src="https://cdn.simpleicons.org/eslint/4B32C3?viewbox=auto" />
   <img height="32" src="https://cdn.simpleicons.org/prettier/F7B93E?viewbox=auto" />
   <img height="32" src="https://cdn.simpleicons.org/vite/646CFF?viewbox=auto" />
-  <img height="32" src="https://cdn.simpleicons.org/socketio/010101?viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/socket.io/010101?viewbox=auto" />
 </div>
 ## 🛠 I also use
 <p align="left"> 
