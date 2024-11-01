@@ -4,30 +4,6 @@
 ## 🚀 About me
 I am a computer technician, passionate about programming and technology. I started programming in C++ for Arduinos, then I started doing backend with Java and Spring boot, today I also do Front-end with Angular or React. I already have 2 years of work experience, but my path in the world of programming began 6 years ago.
 
-## Colaboradores
-
-### 🧑‍💻 TL:
-
-|<img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50>|
-|:-:|
-| **Diego Veras** |
-| <a href="https://www.linkedin.com/in/diego-cristian-alfredo-v-54b459249/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-
-
-### 🧑‍💻 Designers:
-
-| <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> |
-|:-:|:-:|
-| **Sasha Sawosz** | **Diego Alexander** |
-| <a href="https://www.linkedin.com/in/sasha-sawosz/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/diego-alexander-918a62210"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-
-### 🧑‍💻 Developer:
-
-| <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> | <img src="https://www.nicepng.com/png/full/128-1280406_user-icon-png.png" width=50> |
-|:-:|:-:|:-:|:-:|:-:|
-| **Cesar Lopez** | **Thomas Lopez** | **Rocio Tellez Lopez** | **Marcos Lopez** | **Orlando Cardenas Villegas** |
-| <a href="https://www.linkedin.com/in/cesar-lopez-a7226625a/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/thomas-ignacio-lopez/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/yanehttellez/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/marcos-lopez-dev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/orlandocardenasvillegas/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-
 ## 🛠 Main Stack
 <p user-select="none" align="left">
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring,angular,react,ts,java,mysql"/> </a>
