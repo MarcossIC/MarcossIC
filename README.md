@@ -1,5 +1,5 @@
 <div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Marcos%20Lopez&fontColor=Blue%20Blue%20&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Marcos%20Lopez&&fontColor=fff&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
 </div>
 
 ## 🚀 About me
