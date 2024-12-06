@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Marcos Lopez</h1>
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Marcos%20Lopez&fontColor=Blue%20Blue%20&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
+</div>
 
-**`Software Developer`**
 ## 🚀 About me
 I am a computer technician, passionate about programming and technology. I started programming in C++ for Arduinos, then I started doing backend with Java and Spring boot, today I also do Front-end with Angular or React. I already have 2 years of work experience, but my path in the world of programming began 6 years ago.
 
