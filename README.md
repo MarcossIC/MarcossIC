@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Marcos%20Lopez&&fontColor=fff&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=620&lines=Welcome+to+my+profile;Software+Developer+specialized+in+React%2C+Angular%2C+and+Java.;Turning+ideas+into+functional+applications.;Write+to+me+so+we+can+have+a+virtual+coffee+together.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=675&height=45&lines=Welcome+to+my+profile;Software+Developer+specialized+in+React%2C+Angular%2C+and+Java.;Turning+ideas+into+functional+applications.;Write+to+me+so+we+can+have+a+virtual+coffee+together.)](https://git.io/typing-svg)
 
 ## 🚀 About me
 I am a computer technician, passionate about programming and technology. I started programming in C++ for Arduinos, then I started doing backend with Java and Spring boot, today I also do Front-end with Angular or React. I already have 2 years of work experience, but my path in the world of programming began 6 years ago.
